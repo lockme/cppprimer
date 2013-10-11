@@ -23,6 +23,5 @@ int main(void) {
 	sort();
 	compact();
 	write();
-
 	return 0;
 }
