@@ -1,6 +1,0 @@
-postfix: 
-	ix_vec++; 
-	ix_ia++;
-prefix: 
-	++ix_vec; 
-	--ix_ia;
